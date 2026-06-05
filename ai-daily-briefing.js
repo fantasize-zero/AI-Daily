@@ -127,6 +127,7 @@ async function main() {
     var md = generateReport(top20);
     var outDir = process.argv[2] || ".";
     var outPath = outDir + "/AI-Daily-Briefing-" + DATE_STR + ".md";
+    fs.mkdirSync(outDir, { recursive: true });
     fs.writeFileSync(outPath, md, "utf-8");
     console.log("Saved: " + outPath);
   } catch(e) {
