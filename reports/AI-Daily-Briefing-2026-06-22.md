@@ -1,0 +1,375 @@
+# AI Daily Briefing --- 2026-06-22
+
+> 自动从 GitHub 最新热门 AI 项目生成
+
+---
+
+## Overview
+
+- **20** 个最新热门 AI 项目
+- **5** 个类别
+- 2026/6/22 14:32:39
+
+---
+
+## Large Language Models (LLMs) (9)
+
+### DietrichGebert/ponytail
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 47,156 | 2,320 | JavaScript | agent-skills, ai-agents, claude, claude-code, claude-code-plugin |
+
+**Description:** Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/6/12 | Updated: 2026/6/21
+
+---
+
+### omnigent-ai/omnigent
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 4,365 | 496 | Python | agent-framework, agent-governance, agent-orchestration, agents, ai |
+
+**Description:** Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/6/11 | Updated: 2026/6/22
+
+---
+
+### cobusgreyling/loop-engineering
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 610 | 81 | JavaScript | agentic-ai, ai-agents, ai-coding, anthropic, automation |
+
+**Description:** Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/6/9 | Updated: 2026/6/19
+
+---
+
+### Goekdeniz-Guelmez/MLX-LoRA-Studio
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 183 | 18 | Swift | deep-learning, llm-training, llms, machine-learning, mlx |
+
+**Description:** A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully open source.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/6/11 | Updated: 2026/6/19
+
+---
+
+### john-rocky/coreai-model-zoo
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 165 | 11 | Swift | ai, apple-silicon, coreai, coreml, gemma4 |
+
+**Description:** Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 & Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/6/10 | Updated: 2026/6/22
+
+---
+
+### raiyanyahya/recall
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 154 | 3 | Python | ai, ai-agents, anthropic, claude, claude-code |
+
+**Description:** Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/6/19 | Updated: 2026/6/21
+
+---
+
+### sums001/Windows-Copilot-API
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 144 | 37 | Python | ai, ai-agents, api, copilot, llm |
+
+**Description:** Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/6/19 | Updated: 2026/6/22
+
+---
+
+### KorroAi/drunk-claude
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 143 | 9 | TeX | ai-skills, ai-tools, brainstorming, chaos-engineering, claude |
+
+**Description:** Drunk Claude : intensity slider (0.1 tipsy to 1.0 blackout), 5 moods, 8 creative techniques. The unfiltered genius skill for Claude Code. MIT.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/6/13 | Updated: 2026/6/18
+
+---
+
+### keyuchen21/agentic-engineering-handbook
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 114 | 4 | Python | agentic-engineering, agents, ai-agents, anthropic, claude-code |
+
+**Description:** The definitive OpenAI, Claude, MCP, Harness, Evals, and Production Agent Systems learning roadmap.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/6/9 | Updated: 2026/6/21
+
+---
+
+## AI Agents (4)
+
+### XiaomiMiMo/MiMo-Code
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 10,232 | 952 | TypeScript | ai, ai-agents, cli, mimo, mimo-code |
+
+**Description:** MiMo Code: Where Models and Agents Co-Evolve
+
+**Value Analysis:**
+- 核心功能：构建自主 AI Agent
+- 应用价值：自动化工作流、智能助手
+- 技术亮点：Agent 编排 / 多步骤推理
+
+Created: 2026/6/10 | Updated: 2026/6/22
+
+---
+
+### alchaincyf/fanbox
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 757 | 102 | JavaScript | agent, ai, claude, codex, electron |
+
+**Description:** vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.
+
+**Value Analysis:**
+- 核心功能：构建自主 AI Agent
+- 应用价值：自动化工作流、智能助手
+- 技术亮点：Agent 编排 / 多步骤推理
+
+Created: 2026/6/10 | Updated: 2026/6/18
+
+---
+
+### itsinseong/value-for-fable
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 212 | 48 | Python | agentic, ai, anthropic, claude, claude-code |
+
+**Description:** Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트
+
+**Value Analysis:**
+- 核心功能：构建自主 AI Agent
+- 应用价值：自动化工作流、智能助手
+- 技术亮点：Agent 编排 / 多步骤推理
+
+Created: 2026/6/11 | Updated: 2026/6/21
+
+---
+
+### sneakers-the-rat/ImportantCode
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 151 | 17 | Python | agent-friendly, agentic-ai, ai, ai-agents, banana-pudding |
+
+**Description:** This is a repository with a lot of high profile, high prestige code in it that new programmers can make pull requests to and build their reputation
+
+**Value Analysis:**
+- 核心功能：构建自主 AI Agent
+- 应用价值：自动化工作流、智能助手
+- 技术亮点：Agent 编排 / 多步骤推理
+
+Created: 2026/6/16 | Updated: 2026/6/22
+
+---
+
+## Tools / Frameworks (1)
+
+### TestSprite/testsprite-cli
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 738 | 28 | TypeScript | ai, cli, e2e-testing, playwright, qa |
+
+**Description:** Official TestSprite CLI — AI-powered automated testing from your terminal
+
+**Value Analysis:**
+- 核心功能：Official TestSprite CLI — AI-powered automated testing from your terminal
+- 应用价值：推动 AI 技术创新落地
+- 技术亮点：开源贡献 / 社区驱动
+
+Created: 2026/6/11 | Updated: 2026/6/20
+
+---
+
+## Code Generation (2)
+
+### coder/boo
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 691 | 20 | Zig | ai, coding, ghostty, multiplexer, screen |
+
+**Description:** A GNU screen style terminal multiplexer built on libghostty.
+
+**Value Analysis:**
+- 核心功能：A GNU screen style terminal multiplexer built on libghostty.
+- 应用价值：推动 AI 技术创新落地
+- 技术亮点：开源贡献 / 社区驱动
+
+Created: 2026/6/10 | Updated: 2026/6/18
+
+---
+
+### Jamailar/OPG
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 100 | 20 | TypeScript | ai, cli, codex, opc, opg |
+
+**Description:** 多app共享后端服务，一人使用AI管理多个app，实现一人集团化，打通一人公司的最后一公里。几乎支持所有后端服务，可接入Codex、Claude Code、Hermes、OpenClaw等任何主流AI工具。实现迭代、营销全程AI化
+
+**Value Analysis:**
+- 核心功能：代码生成、补全、审查
+- 应用价值：提升开发效率
+- 技术亮点：代码理解 / 多语言支持
+
+Created: 2026/6/9 | Updated: 2026/6/22
+
+---
+
+## General AI (4)
+
+### buynao/aipath
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 348 | 36 | JavaScript | ai, machine-learning |
+
+**Description:** Interactive AI General Education Course — 30 Lessons, Zero Math
+
+**Value Analysis:**
+- 核心功能：Interactive AI General Education Course — 30 Lessons, Zero Math
+- 应用价值：推动 AI 技术创新落地
+- 技术亮点：开源贡献 / 社区驱动
+
+Created: 2026/6/12 | Updated: 2026/6/20
+
+---
+
+### gykim80/perfectpixel-studio
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 339 | 53 | Go | ai, game-development, golang, pixel-art, sprite |
+
+**Description:** AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)
+
+**Value Analysis:**
+- 核心功能：AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)
+- 应用价值：推动 AI 技术创新落地
+- 技术亮点：开源贡献 / 社区驱动
+
+Created: 2026/6/14 | Updated: 2026/6/21
+
+---
+
+### xingwudao/xquant-beginner
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 289 | 52 | TypeScript | ai, gitbook, quant, trading, vitepress |
+
+**Description:** 《XQuant：人人都是量化交易员》开源书稿
+
+**Value Analysis:**
+- 核心功能：《XQuant：人人都是量化交易员》开源书稿
+- 应用价值：推动 AI 技术创新落地
+- 技术亮点：开源贡献 / 社区驱动
+
+Created: 2026/6/9 | Updated: 2026/6/21
+
+---
+
+### metamask-eth/metamask-desktop
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 132 | 10 | CSS | bitcoin, bitcoin-wallet, btc-wallet, crypto, cryptocurrency |
+
+**Description:** 🖥️ The MetaMask Desktop app is a companion crypto wallet app that improves the overall performance of the MetaMask Extension Flask build
+
+**Value Analysis:**
+- 核心功能：🖥️ The MetaMask Desktop app is a companion crypto wallet app that improves the overall performance of the MetaMask Extension Flask build
+- 应用价值：推动 AI 技术创新落地
+- 技术亮点：开源贡献 / 社区驱动
+
+Created: 2026/6/11 | Updated: 2026/6/14
+
+---
+
+## Top 5
+
+| # | Project | Stars | Category |
+|---|---------|-------|----------|
+| 1 | DietrichGebert/ponytail | 47,156 | Large Language Models (LLMs) |
+| 2 | XiaomiMiMo/MiMo-Code | 10,232 | AI Agents |
+| 3 | omnigent-ai/omnigent | 4,365 | Large Language Models (LLMs) |
+| 4 | alchaincyf/fanbox | 757 | AI Agents |
+| 5 | TestSprite/testsprite-cli | 738 | Tools / Frameworks |
+
+> Generated by AI Daily Briefing
