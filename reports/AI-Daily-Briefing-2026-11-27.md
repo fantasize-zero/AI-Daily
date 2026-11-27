@@ -1,0 +1,371 @@
+# AI Daily Briefing --- 2026-11-27
+
+> 自动从 GitHub 最新热门 AI 项目生成
+
+---
+
+## Overview
+
+- **20** 个最新热门 AI 项目
+- **3** 个类别
+- 2026/11/27 17:31:07
+
+---
+
+## Large Language Models (LLMs) (16)
+
+### pierridotite/mobile-agent-testers
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 2,553 | 259 | Python | accessibility-testing, ai-agents, ai-testing, android, android-emulator |
+
+**Description:** 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/16 | Updated: 2026/11/26
+
+---
+
+### alesha-pro/llm.asm
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 1,793 | 277 | Assembly | assembly, avx2, bare-metal, llm, machine-learning |
+
+**Description:** Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/25 | Updated: 2026/11/25
+
+---
+
+### sous-labs/songe
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 915 | 75 | Python | coding-agents, distillation, fine-tuning, llm, local-llm |
+
+**Description:** A training engine for your local model, using your idle compute
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/20 | Updated: 2026/11/27
+
+---
+
+### mankidev/antialgorithm
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 909 | 59 | Python | agent-skills, claude-code, claude-code-plugin, claude-skills, codex |
+
+**Description:** Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/14 | Updated: 2026/11/26
+
+---
+
+### w01fb0ss/PiBot
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 664 | 97 | TypeScript | agent, ai-agent, ai-agents, ai-assistant, android |
+
+**Description:** Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/21 | Updated: 2026/11/27
+
+---
+
+### Lumidarin/agy-capsule
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 380 | 12 | JavaScript | antigravity, antigravity-plugin, context-window, developer-tools, llm |
+
+**Description:** Context usage, model quotas, token breakdowns, and generation metrics — right in your Antigravity composer.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/14 | Updated: 2026/11/25
+
+---
+
+### piomin/ai-software-factory
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 221 | 39 | Dockerfile | ai, claude-code, kubernetes, opencode, openshift |
+
+**Description:** AI Software Factory running on Kubernetes / OpenShift with Tekton and vLLM
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/18 | Updated: 2026/11/24
+
+---
+
+### Haruhi764/OmniCAD-Skill
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 213 | 29 | Python | 2d-cad, agent-skills, ai-agents, ai-cad, autocad |
+
+**Description:** Evidence-driven 2D CAD drafting and QA for editable DXF, AutoCAD DWG, and PDF
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/19 | Updated: 2026/11/27
+
+---
+
+### kenzz-devv/open-webui-talora-ai-workspace
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 200 | 0 | TypeScript | chat, chatbot, generative-ai, gguf, inference |
+
+**Description:** Streamlined workspace for organizing and running AI workflows in one place.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/18 | Updated: 2026/11/27
+
+---
+
+### brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 181 | 37 | Python | biosignals, electrophysiology, godot, language-models, llm |
+
+**Description:** Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/24 | Updated: 2026/11/24
+
+---
+
+### w1ccc/sap-data-mcp
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 179 | 0 | Python | ai-agents, bapi, erp, llm, mcp |
+
+**Description:** Read-only MCP servers that let AI assistants query SAP S/4HANA through RFC/BAPI, private-cloud OData and public-cloud released APIs. Every call audited; credentials stay local.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/20 | Updated: 2026/11/27
+
+---
+
+### LIUFelix2004/dsh-workbuddy
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 178 | 54 | JavaScript | codebuddy, deepseek-harness, dsh-plugin, llm, provider |
+
+**Description:** Import WorkBuddy accounts into DeepSeek Harness as model providers: one route per account, full model list, per-account credit balance, and an automatic workaround for the gateway 11128 channel check.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/20 | Updated: 2026/11/21
+
+---
+
+### ccarter01011/traxagent-claude-plugin
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 173 | 0 | Python | ai-cost, ai-governance, anthropic, chatgpt, claude |
+
+**Description:** Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/17 | Updated: 2026/11/24
+
+---
+
+### yijiejiang/kaogong-school
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 170 | 1 | Python | ai-agents, ai-tutor, civil-service-exam, deepseek, edtech |
+
+**Description:** 本地优先的考公（公务员考试 / 国考 / 省考）多智能体 AI 学习系统：资料解析、知识挖掘、技能地图、RAG 问答、AI 出卷改卷与学情闭环。Self-hosted AI tutor for Chinese civil service exam prep.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/16 | Updated: 2026/11/27
+
+---
+
+### duzhenxun/pop-agent
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 136 | 0 | TypeScript | agent-ui, agentweb, agentwebui, codex, coding-agent |
+
+**Description:** PopAgent local web UI for your coding agents: watch the reasoning stream, cut in with a correction mid-turn, manage models and tools. Works with pi, Codex, Claude Code, OpenCode and DSH. Sessions stay the engine's own files — no database, no account.
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/23 | Updated: 2026/11/27
+
+---
+
+### mbzuai-oryx/LoopedWSP
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 126 | 20 | Python | algorithmic-reasoning, claude, interpretability, llm, looped-transformer |
+
+**Description:** Looped Weight-Space Programming: LLM-Written Transformers for Long Algorithmic Reasoning
+
+**Value Analysis:**
+- 核心功能：提供或增强大语言模型能力
+- 应用价值：对话系统、内容生成、知识问答
+- 技术亮点：架构创新 / 推理优化 / 多模态支持
+
+Created: 2026/11/23 | Updated: 2026/11/24
+
+---
+
+## AI Agents (2)
+
+### google-deepmind/robotics-antigravity-plugin
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 398 | 38 | Python | ai, antigravity, gemini, mujoco, robotics |
+
+**Description:** GDM Robotics Skills for agentic robotics workflows across simulation and real robots.
+
+**Value Analysis:**
+- 核心功能：构建自主 AI Agent
+- 应用价值：自动化工作流、智能助手
+- 技术亮点：Agent 编排 / 多步骤推理
+
+Created: 2026/11/16 | Updated: 2026/11/25
+
+---
+
+### Wilfriedbkt/interview-copilot-edtech-app
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 153 | 0 | HTML | agentic-ai, ai, ai-agents, ai-tools, api |
+
+**Description:** Interview Copilot EdTech App: Bridge Learning and Your Dream Job
+
+**Value Analysis:**
+- 核心功能：构建自主 AI Agent
+- 应用价值：自动化工作流、智能助手
+- 技术亮点：Agent 编排 / 多步骤推理
+
+Created: 2026/11/15 | Updated: 2026/11/27
+
+---
+
+## General AI (2)
+
+### pgmergulhao75-dot/openbb-calvona-market-research
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 197 | 0 | TypeScript | backtesting, crypto, cryptocurrency, exchange, finance |
+
+**Description:** Openbb Calvona Market Research delivers structured market data analysis and research workflows.
+
+**Value Analysis:**
+- 核心功能：Openbb Calvona Market Research delivers structured market data analysis and research workflows.
+- 应用价值：推动 AI 技术创新落地
+- 技术亮点：开源贡献 / 社区驱动
+
+Created: 2026/11/18 | Updated: 2026/11/27
+
+---
+
+### 7wdn/7paws
+
+| Stars | Forks | Language | Topics |
+|-------|-------|----------|--------|
+| 146 | 25 | Rust | ai, cat, customization, desktop-pet, macos |
+
+**Description:** Windows 与 macOS 的 3D 桌面小猫桌宠：响应全局键鼠、敲键追光标、摸猫呼噜；支持照片取色或 AI（内置 MCP）定制专属猫咪，闲置后睡觉。
+
+**Value Analysis:**
+- 核心功能：Windows 与 macOS 的 3D 桌面小猫桌宠：响应全局键鼠、敲键追光标、摸猫呼噜；支持照片取色或 AI（内置 MCP）定制专属猫咪，闲置后睡觉。
+- 应用价值：推动 AI 技术创新落地
+- 技术亮点：开源贡献 / 社区驱动
+
+Created: 2026/11/22 | Updated: 2026/11/27
+
+---
+
+## Top 5
+
+| # | Project | Stars | Category |
+|---|---------|-------|----------|
+| 1 | pierridotite/mobile-agent-testers | 2,553 | Large Language Models (LLMs) |
+| 2 | alesha-pro/llm.asm | 1,793 | Large Language Models (LLMs) |
+| 3 | sous-labs/songe | 915 | Large Language Models (LLMs) |
+| 4 | mankidev/antialgorithm | 909 | Large Language Models (LLMs) |
+| 5 | w01fb0ss/PiBot | 664 | Large Language Models (LLMs) |
+
+> Generated by AI Daily Briefing
